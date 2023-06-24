@@ -53,7 +53,7 @@
           <img src="imagenes/robot.gif" />
           </div>
         <div class="card_title">
-          <p>Locación <br>Avenida 56, Nietos de carazo<br> Hatillo, San Jose, Costa Rica</p>
+          <p>Locación <br>Avenida 56, Hatillo, San Jose, Costa Rica</p>
         </div>
       </div>
       
@@ -62,7 +62,7 @@
           <img src="imagenes/robot.gif" />
         </div>
         <div class="card_title">
-          <p>Número Teléfono <br>+506 89 46 14 88</p>
+          <p>Linkedin<br>angélicadelosángelesjuarezmora64679a150</p>
         </div>
       </div>
         
@@ -77,7 +77,6 @@
       
      <div class="contenedor-redes-sociales">
       <a class="red" href="https://form.123formbuilder.com/form-6465568/parent-contact-form" target="_blank"><span class="circulo"><img src="imagenes/footer.png" alt="form"></span> <span class="titulo">Formulario</span><span class="titulo-hover">Contactame</span></a>
-      <a class="red" href="https://wa.me/qr/XZJHGAYH6767G1" target="_blank"> <span class="circulo"><img src="imagenes/footer.png" alt="Whatsapp"></span><span class="titulo">Whatsapp</span><span class="titulo-hover">Contactame</span></a>
       <a class="red" href="https://www.linkedin.com/in/angélica-de-los-ángeles-juarez-mora-64679a150" target="_blank"><span class="circulo"><img src="imagenes/footer.png" alt="linkedin"></span> <span class="titulo">Linkedin</span><span class="titulo-hover">Contactame</span></a>
       <a class="red" href="https://github.com/AngelicaJuarezMora" target="_blank"> <span class="circulo"><img src="imagenes/footer.png" alt=""></span><span class="titulo">GitHub</span><span class="titulo-hover">Contactame</span></a>
       <a class="red" href="mailto:angelicajuare@hotmail.es" target="_blank"> <span class="circulo"><img src="imagenes/footer.png" alt=""></span><span class="titulo">Email</span><span class="titulo-hover">Contactame</span></a>
