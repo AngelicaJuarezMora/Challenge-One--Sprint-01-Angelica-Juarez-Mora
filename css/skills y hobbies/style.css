@@ -351,7 +351,8 @@ ul {
   background-image: url(imagenes/fondo1.gif);
 }
 .menu__nombre {
-  font-size: 3vw;
+
+  font-size: 2vw;
   line-height: 3vw;
 }
 
@@ -440,10 +441,10 @@ ul {
     justify-content: space-between; 
   }
     .menu__item{
-        font-size: .875vw;
-        font-weight: 500;
-        line-height: .1875vw;
-        padding-left: 3.5vw;
+        font-size: 2.575vw;
+        font-weight: 800;
+        line-height: .1775vw;
+        padding-left: 1.5vw;
     }
   html {
     box-sizing: border-box;
